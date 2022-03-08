@@ -1,0 +1,3 @@
+Version: 0.01 #
+Devurl: http://www.nuy.info/mantisplugins/2.X/MonProj/version.txt #
+Location: http://www.nuy.info/mantisplugins/2.X/MonProj/MonProj001.zip #

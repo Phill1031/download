@@ -1,0 +1,17 @@
+<?php
+$s_MonProj_description	= "Monitor Projects";
+$s_MonProj_title		= "Monitor Entire Projects";
+$s_MonProj_enabled		= "Yes";
+$s_MonProj_disabled		= "No";
+$s_MonProj_addall		= "Add monitoring to all existing issues";
+$s_MonProj_onlynew		= "Add monitoring only to new issues";
+$s_MonProj_removeall	= "Remove monitoring from all existing issues";
+$s_MonProj_leave		= "Just stopp adding to the monitor list";
+$s_MonProj_add_all		= "Add monitoring";
+$s_MonProj_remove_all	= "Stop monitoring";
+$s_MonProj_admin		= "Required access level for managing";
+$s_add_monitor_title	= "Add Projects to monitor";
+$s_projects_monitored	= "Projects under Monitoring";
+$s_add_monitor_button	= "Add to monitor list";
+$s_project_monitor_label= "Available Projects";
+$s_remove_project_button= "Drop Monitoring";
